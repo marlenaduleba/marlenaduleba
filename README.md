@@ -1,5 +1,6 @@
 # 👋 Hello! I'm Marlena
-![Image](https://github.com/marlenaduleba/marlenaduleba/blob/main/Fullstack.png?raw=true)
+![Image](https://github.com/marlenaduleba/marlenaduleba/blob/main/fullstack.png?raw=true)
+
 Welcome to my GitHub profile! I'm an aspiring Fullstack Developer based in Bydgoszcz, Poland. I have a strong foundation in both frontend and backend technologies and I'm passionate about creating high-quality web applications.
 
 # Tech Stack
