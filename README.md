@@ -1,5 +1,5 @@
 # 👋 Hello! I'm Marlena
-![Image](https://github.com/marlenaduleba/marlenaduleba/blob/main/fullstack.png?raw=true)
+![Image](https://github.com/marlenaduleba/marlenaduleba/blob/main/Fullstack.png?raw=true)
 
 # Tech Stack
 
