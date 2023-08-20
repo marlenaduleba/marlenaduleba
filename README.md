@@ -1,4 +1,5 @@
 # 👋 Hello! I'm Marlena
+![Image](http://url/a.png)
 
 Welcome to my GitHub profile! I'm an aspiring Full Stack Developer based in Bydgoszcz, Poland. I have a strong foundation in both frontend and backend technologies and I'm passionate about creating high-quality web applications.
 
