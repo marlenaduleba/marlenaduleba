@@ -1,4 +1,4 @@
-![Image](https://github.com/marlenaduleba/marlenaduleba/blob/main/hello.png?raw=true)
+![Image](https://github.com/marlenaduleba/marlenaduleba/blob/main/marlena.png?raw=true)
 
 Welcome to my GitHub profile! I'm an aspiring Fullstack Developer based in Bydgoszcz, Poland. I have a strong foundation in both frontend and backend technologies and I'm passionate about creating high-quality web applications.
 
