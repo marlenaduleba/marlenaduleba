@@ -49,7 +49,7 @@ Feel free to connect with me on
 
 or explore my code on 
 
-[![GitHub](https://img.shields.io/badge/GitHub_Repo-gray?style=for-the-badge&logo=github&labelColor=gray)](https://github.com/marlenaduleba?tab=repositories)
+[![GitHub](https://img.shields.io/badge/GitHub_Repo-gray?style=for-the-badge&logo=github)](https://github.com/marlenaduleba?tab=repositories)
 
 Let's collaborate and build amazing projects together!
 
